@@ -1,13 +1,3 @@
-# FriendFinder
+This is a atempt to extract a Socalgrath from realtime dateset of people moving threw a building. The idea is that people that move together alot could be friends.
 
-FIXME: write description
-
-## Usage
-
-FIXME: write
-
-## License
-
-Copyright (C) 2011 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+The date are people from Chaos Comunication Process in Berlin 2011.
